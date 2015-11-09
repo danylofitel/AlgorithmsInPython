@@ -7,7 +7,7 @@ __author__ = 'Danylo'
 # 180 degree rotations of 6, 9, 1, 0 and 8 are 9, 6, 1, 0 and 8 respectively.
 
 
-rotated_fancy_numbers = {
+rotated_fancy_digits = {
     '0': '0',
     '1': '1',
     '6': '9',
@@ -17,13 +17,13 @@ rotated_fancy_numbers = {
 
 
 def is_fancy(number):
-    if number is None:
+    if number is None or len(number) == 0:
         return None
 
     count = len(number)
     for i in range(count / 2 + count % 2):
-        if number[i] in rotated_fancy_numbers:
-            if number[count - i - 1] != rotated_fancy_numbers[number[i]]:
+        if number[i] in rotated_fancy_digits:
+            if number[count - i - 1] != rotated_fancy_digits[number[i]]:
                 return False
         else:
             return False
@@ -32,7 +32,6 @@ def is_fancy(number):
 
 
 test_fancy_numbers = [
-    "",
     "0", "1", "8",
     "00", "11", "69", "88", "96",
     "000", "010", "818", "609", "916", "8698",
