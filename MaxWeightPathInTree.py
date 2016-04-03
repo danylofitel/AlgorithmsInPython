@@ -1,4 +1,4 @@
-from BST import Node
+from BinarySearchTree import BstNode
 
 __author__ = 'Danylo'
 
@@ -66,19 +66,19 @@ def max_weight_path_in_tree(tree):
     return max(max_left, tree.max_paths_down, max_right)
 
 
-root = Node(1)
+root = BstNode(1)
 
-root.left = Node(0)
+root.left = BstNode(0)
 
-root.right = Node(10)
+root.right = BstNode(10)
 
-root.left.left = Node(100)
+root.left.left = BstNode(100)
 
-root.left.right = Node(30)
+root.left.right = BstNode(30)
 
-root.right.right = Node(90)
+root.right.right = BstNode(90)
 
-root.right.right.left = Node(10)
+root.right.right.left = BstNode(10)
 
 print max_weight_path_from_root(root)
 

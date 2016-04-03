@@ -6,8 +6,8 @@ __author__ = 'Danylo'
 # Write an efficient C program to find the sum of contiguous subarray
 # within a one-dimensional array of numbers which has the largest sum.
 
-#Kadane's Algorithm:
-#Initialize:
+# Kadane's Algorithm:
+# Initialize:
 #    max_so_far = 0
 #    max_ending_here = 0
 # Loop for each element of the array

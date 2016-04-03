@@ -1,12 +1,20 @@
 __author__ = 'Danylo'
 
 
-# Node structure and common routines for binary search trees.
+# Binary search tree structure and common routines
 
 
-class Node:
+class BstNode:
     def __init__(self, value):
         self.value = value
+        self.left = None
+        self.right = None
+
+
+class BstWithParentNode:
+    def __init__(self, value):
+        self.value = value
+        self.parent = None
         self.left = None
         self.right = None
 

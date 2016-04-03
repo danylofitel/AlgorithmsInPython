@@ -1,4 +1,4 @@
-from BST import Node
+from BinarySearchTree import BstNode
 
 __author__ = 'Danylo'
 
@@ -25,15 +25,15 @@ def count_nodes_in_range(tree, left, right):
 
     return count
 
-root = Node(9)
+root = BstNode(9)
 
-root.left = Node(5)
-root.right = Node(15)
+root.left = BstNode(5)
+root.right = BstNode(15)
 
-root.left.left = Node(3)
-root.left.right = Node(7)
+root.left.left = BstNode(3)
+root.left.right = BstNode(7)
 
-root.right.left = Node(12)
-root.right.right = Node(20)
+root.right.left = BstNode(12)
+root.right.right = BstNode(20)
 
 print count_nodes_in_range(root, 7, 20)

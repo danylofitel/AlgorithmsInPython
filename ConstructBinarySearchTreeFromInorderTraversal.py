@@ -1,4 +1,4 @@
-from BST import*
+from BinarySearchTree import*
 
 __author__ = 'Danylo'
 
@@ -10,10 +10,10 @@ def construct_bst(inorder):
     n = len(inorder)
 
     if n == 1:
-        return Node(inorder[0])
+        return BstNode(inorder[0])
 
     mid = n / 2
-    root = Node(inorder[mid])
+    root = BstNode(inorder[mid])
 
     root.left = construct_bst(inorder[0:mid])
     root.right = construct_bst(inorder[mid+1:n])
