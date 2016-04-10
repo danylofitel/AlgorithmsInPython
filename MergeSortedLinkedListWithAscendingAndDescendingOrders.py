@@ -63,8 +63,6 @@ def merge(asc, desc):
     return merged
 
 
-
-
 desc = Node(17, Node(15, Node(13, Node(11, Node(9, Node(7, Node(5, Node(3, Node(1, None)))))))))
 asc = Node(0, Node(2, Node(4, Node(6, Node(8, Node(10, Node(12, Node(14, Node(16, None)))))))))
 

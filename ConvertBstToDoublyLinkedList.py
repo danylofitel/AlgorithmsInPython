@@ -53,6 +53,7 @@ root.right.right = BstNode(17)
 
 sorted_list = convert_bst_to_list(root)
 pointer = sorted_list
+
 while pointer:
     print pointer.value
     pointer = pointer.nxt

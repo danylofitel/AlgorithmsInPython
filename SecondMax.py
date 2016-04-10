@@ -1,4 +1,5 @@
-__author__ = 'Vlad'
+__author__ = 'Danylo'
+
 
 comparison_counter = 0
 
@@ -63,7 +64,7 @@ def second_max(arr):
                 max_val = arr
             return max_val
 
-        return (first_order.keys()[0], find_max(first_order.values()[0]))
+        return first_order.keys()[0], find_max(first_order.values()[0])
 
     pair_order = build_pair_order()
     print 'Pair order:', pair_order

@@ -1,6 +1,7 @@
 # Hamming code receives 4 bits as input at a time
 K = 4
 
+
 # Read in K bits at a time and write out those plus parity bits
 def encode_hamming(message):
     result = ""
@@ -10,6 +11,7 @@ def encode_hamming(message):
         message = message[K:]
     return result
 
+
 # Return given 4 bits plus parity bits for bits (1, 2, 3), (2, 3, 4) and (1, 3, 4)
 def hamming(block):
     digit1 = parity(block, [0, 1, 2])
@@ -17,6 +19,7 @@ def hamming(block):
     digit3 = parity(block, [0, 2, 3])
 
     return block + digit1 + digit2 + digit3
+
 
 # Compute the parity bit for the given message and indices
 def parity(message, indices):

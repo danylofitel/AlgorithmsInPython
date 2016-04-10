@@ -1,5 +1,6 @@
 __author__ = 'Danylo'
 
+
 # http://www.geeksforgeeks.org/reverse-an-array-without-affecting-special-characters/
 # Reverse an array without affecting special characters
 # Given a string, that contains special character together with alphabets

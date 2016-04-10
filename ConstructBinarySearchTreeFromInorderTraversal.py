@@ -24,4 +24,3 @@ inorder_traversal = [1, 2, 4, 5, 8, 9, 11, 12, 13, 14, 18, 21, 25]
 bst = construct_bst(inorder_traversal)
 
 print_inorder(bst)
-

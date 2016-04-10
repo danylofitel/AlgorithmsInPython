@@ -1,9 +1,10 @@
-__author__ = 'Danylo'
-
 import math
 
 
-def TMA(a, b, c, f):
+__author__ = 'Danylo'
+
+
+def tridiagonal_matrix_algorithm(a, b, c, f):
     a, b, c, f = map(lambda k_list: map(float, k_list), (a, b, c, f))
 
     alpha = [0]
@@ -35,7 +36,7 @@ def characteristics(n, v, tau, d, h):
     b = [1 + 2 * tau * d / (h ** 2) for x in range(n)]
     c = [-tau * d / (h * h) for x in range(n)]
 
-    return TMA(a, b, c, c_prev)
+    return tridiagonal_matrix_algorithm(a, b, c, c_prev)
 
 n = 3
 v = 1

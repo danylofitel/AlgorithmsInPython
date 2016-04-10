@@ -1,5 +1,6 @@
 from BinarySearchTree import BstNode
 
+
 __author__ = 'Danylo'
 
 

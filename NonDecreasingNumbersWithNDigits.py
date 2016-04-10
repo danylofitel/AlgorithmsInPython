@@ -21,9 +21,9 @@ def non_decreasing_numbers_dynamic(length):
             for x in range(0, digit + 1):
                 cache[digit][n] += cache[x][n - 1]
 
-    sum = 0
+    count = 0
     for i in range(0, 10):
-        sum += cache[i][length]
-    return sum
+        count += cache[i][length]
+    return count
 
 print non_decreasing_numbers_dynamic(10)
