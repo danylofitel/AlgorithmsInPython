@@ -30,4 +30,4 @@ def binary_strings_with_no_consecutive_ones(length):
     return ending_in_0[length] + ending_in_1[length]
 
 for i in range(0, 100):
-    print binary_strings_with_no_consecutive_ones(i)
+    print(binary_strings_with_no_consecutive_ones(i))

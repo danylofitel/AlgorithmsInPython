@@ -65,4 +65,4 @@ expressions = [
 ]
 
 for expr in expressions:
-    print all_outcomes(expr, 0, len(expr) - 1)
+    print(all_outcomes(expr, 0, len(expr) - 1))

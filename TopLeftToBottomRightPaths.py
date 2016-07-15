@@ -44,10 +44,10 @@ def paths_dynamic(m, n):
 
 def print_paths_help(m, n, i, j, path):
     if i == m - 1:
-        print path + ['R' for x in range(j, n - 1)]
+        print(path + ['R' for x in range(j, n - 1)])
         return
     elif j == n - 1:
-        print path + ['D' for x in range(i, m - 1)]
+        print(path + ['D' for x in range(i, m - 1)])
         return
 
     path.append('D')
@@ -67,7 +67,7 @@ M = 5
 N = 5
 for i in range(M, M + 1):
     for j in range(N, N + 1):
-        print paths_formula(i, j)
-        print paths_dynamic(i, j)
+        print(paths_formula(i, j))
+        print(paths_dynamic(i, j))
 
 print_paths(M, N)

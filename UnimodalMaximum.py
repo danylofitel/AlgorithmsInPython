@@ -8,7 +8,7 @@ __author__ = 'Danylo'
 
 def umm(array, left, right):
     if left < right:
-        mid = (left + right) / 2
+        mid = (left + right) // 2
         if array[mid] < array[mid + 1]:
             return umm(array, mid + 1, right)
         elif array[mid - 1] > array[mid]:
@@ -27,4 +27,4 @@ def unimodal_maximum(array):
 
 test_array = [-1, 1, 3, 5, 7, 9, 11, 13, 12, 10, 8, 6, 4, 2, 0, -2, -4]
 
-print unimodal_maximum(test_array)
+print(unimodal_maximum(test_array))

@@ -37,4 +37,4 @@ def max_number_of_as(n):
 
     return cache[n - 1]
 
-print max_number_of_as(10)
+print(max_number_of_as(10))

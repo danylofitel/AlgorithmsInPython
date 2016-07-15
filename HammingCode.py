@@ -29,7 +29,7 @@ def parity(message, indices):
     return str(str.count(sub, "1") % 2)
 
 
-input_string = raw_input()
+input_string = input()
 formatted_input = ""
 for c in input_string:
     if c == '0' or c == '1':
@@ -37,5 +37,5 @@ for c in input_string:
 
 formatted_input += "".join(['0' for i in range(abs(K - len(formatted_input) % K) % K)])
 
-print "Input string : " + formatted_input
-print "Output string: " + encode_hamming(formatted_input)
+print("Input string : " + formatted_input)
+print("Output string: " + encode_hamming(formatted_input))

@@ -28,5 +28,5 @@ arrays = [
 ]
 
 for arr in arrays:
-    print arr
-    print find_odd_appearing_element(arr)
+    print(arr)
+    print(find_odd_appearing_element(arr))

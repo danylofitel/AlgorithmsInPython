@@ -47,5 +47,5 @@ def max_average_subarray(arr, k):
 
 array = [1, 12, -5, -6, 50, 3]
 
-print max_average_subarray_extra_space(array, 4)
-print max_average_subarray(array, 4)
+print(max_average_subarray_extra_space(array, 4))
+print(max_average_subarray(array, 4))

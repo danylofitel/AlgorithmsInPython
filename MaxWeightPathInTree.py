@@ -80,6 +80,6 @@ root.right.right = BstNode(90)
 
 root.right.right.left = BstNode(10)
 
-print max_weight_path_from_root(root)
+print(max_weight_path_from_root(root))
 
-print max_weight_path_in_tree(root)
+print(max_weight_path_in_tree(root))

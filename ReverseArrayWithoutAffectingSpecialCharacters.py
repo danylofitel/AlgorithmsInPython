@@ -33,5 +33,5 @@ def reverse_ignoring_special_characters(array, special_characters):
 
     return array
 
-print reverse_ignoring_special_characters(list("a,b$c"), list(",$"))
-print reverse_ignoring_special_characters(list("Ab,c,de!$"), list(",!$"))
+print(reverse_ignoring_special_characters(list("a,b$c"), list(",$")))
+print(reverse_ignoring_special_characters(list("Ab,c,de!$"), list(",!$")))

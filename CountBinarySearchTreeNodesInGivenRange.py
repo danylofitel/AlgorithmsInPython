@@ -36,4 +36,4 @@ root.left.right = BstNode(7)
 root.right.left = BstNode(12)
 root.right.right = BstNode(20)
 
-print count_nodes_in_range(root, 7, 20)
+print(count_nodes_in_range(root, 7, 20))

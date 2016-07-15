@@ -26,4 +26,4 @@ def non_decreasing_numbers_dynamic(length):
         count += cache[i][length]
     return count
 
-print non_decreasing_numbers_dynamic(10)
+print(non_decreasing_numbers_dynamic(10))

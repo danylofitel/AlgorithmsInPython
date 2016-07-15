@@ -38,7 +38,7 @@ def maximum_subarray(array):
 
 
 test_array = [-2, 0, 9, 2, 1, -5, 9, 3, -3, -1, 5]
-print maximum_subarray(test_array)
+print(maximum_subarray(test_array))
 
 test_array = [-4, 3, -2, 1, 0, 1, 2, -3]
-print maximum_subarray(test_array)
+print(maximum_subarray(test_array))

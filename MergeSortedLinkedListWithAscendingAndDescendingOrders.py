@@ -68,7 +68,7 @@ asc = Node(0, Node(2, Node(4, Node(6, Node(8, Node(10, Node(12, Node(14, Node(16
 
 merged = merge(asc, desc)
 while merged.ptr is not None:
-    print merged.value
+    print(merged.value)
     merged = merged.ptr
 
-print merged.value
+print(merged.value)

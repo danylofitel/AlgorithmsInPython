@@ -41,7 +41,7 @@ class SecondLargest:
 
     def pairwise_largest(self, array):
         new_array = []
-        for index in xrange(0, len(array) - 1, 2):
+        for index in range(0, len(array) - 1, 2):
             min_elem = array[index]
             max_elem = array[index + 1]
             if self.less(max_elem, min_elem):
@@ -59,5 +59,5 @@ for p in range(1, 10, 1):
     test_array = [i for i in range(n)]
     shuffle(test_array)
 
-    print sl.second_largest(test_array)
-    print sl.comparisons <= n + log(n, 2) - 2
+    print(sl.second_largest(test_array))
+    print(sl.comparisons <= n + log(n, 2) - 2)

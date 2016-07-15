@@ -82,4 +82,4 @@ matrix = [
     [5, 6, 7, 8, 9, 8]
 ]
 
-print longest_consecutive_path(matrix)
+print(longest_consecutive_path(matrix))

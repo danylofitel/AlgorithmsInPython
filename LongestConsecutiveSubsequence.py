@@ -60,5 +60,5 @@ arrays = [
 ]
 
 for arr in arrays:
-    print longest_consecutive_subsequence_sorting(arr)
-    print longest_consecutive_subsequence_hashing(arr)
+    print(longest_consecutive_subsequence_sorting(arr))
+    print(longest_consecutive_subsequence_hashing(arr))

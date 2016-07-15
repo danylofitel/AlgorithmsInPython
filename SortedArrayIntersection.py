@@ -69,5 +69,5 @@ test_arrays = [
 ]
 
 
-print intersection(test_arrays[0], test_arrays[1])
-print union(test_arrays[0], test_arrays[1])
+print(intersection(test_arrays[0], test_arrays[1]))
+print(union(test_arrays[0], test_arrays[1]))

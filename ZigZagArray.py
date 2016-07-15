@@ -13,7 +13,7 @@ def zig_zag_array_by_sorting(array):
 
     array.sort()
 
-    for i in range(1, len(array) / 2):
+    for i in range(1, len(array) // 2):
         tmp = array[2 * i - 1]
         array[2 * i - 1] = array[2 * i]
         array[2 * i] = tmp
@@ -38,13 +38,13 @@ def zig_zag_array(array):
 
 def visualize(array):
     for x in array:
-        print ['*' for i in range(0, x)]
+        print(['*' for i in range(0, x)])
 
 
 arr = [4, 3, 7, 8, 6, 2, 1]
 
-print zig_zag_array_by_sorting(arr)
+print(zig_zag_array_by_sorting(arr))
 visualize(zig_zag_array_by_sorting(arr))
 
-print zig_zag_array(arr)
+print(zig_zag_array(arr))
 visualize(zig_zag_array(arr))

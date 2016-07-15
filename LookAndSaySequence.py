@@ -49,4 +49,4 @@ class LookAndSay:
 sequence = LookAndSay()
 
 for i in range(1, 25, 1):
-    print sequence.get(i)
+    print(sequence.get(i))

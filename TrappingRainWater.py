@@ -33,7 +33,7 @@ def trapping_rain_water(arr):
 
 def visualize(array):
     for x in array:
-        print ['*' for i in range(0, x)]
+        print(['*' for i in range(0, x)])
 
 arrays = [
     [2, 0, 2],
@@ -43,5 +43,5 @@ arrays = [
 
 for arr in arrays:
     visualize(arr)
-    print trapping_rain_water(arr)
-    print ""
+    print(trapping_rain_water(arr))
+    print()

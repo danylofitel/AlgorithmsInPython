@@ -55,5 +55,5 @@ sorted_list = convert_bst_to_list(root)
 pointer = sorted_list
 
 while pointer:
-    print pointer.value
+    print(pointer.value)
     pointer = pointer.nxt

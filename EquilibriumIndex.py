@@ -29,4 +29,4 @@ test_arrays = [
 ]
 
 for test_array in test_arrays:
-    print list(equilibrium_index(test_array))
+    print(list(equilibrium_index(test_array)))

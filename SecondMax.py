@@ -36,11 +36,11 @@ def second_max(arr):
 
         new_firsts = {}
         while len(firsts) > 1:
-            first_k = firsts.keys()[0]
-            second_k = firsts.keys()[1]
+            first_k = list(firsts.keys())[0]
+            second_k = list(firsts.keys())[1]
             if not is_greater(first_k, second_k):
                 first_k = second_k
-                second_k = firsts.keys()[0]
+                second_k = list(firsts.keys())[0]
             new_firsts[first_k] = flat((firsts[first_k], second_k))
             del firsts[first_k]
             del firsts[second_k]
@@ -64,14 +64,14 @@ def second_max(arr):
                 max_val = arr
             return max_val
 
-        return first_order.keys()[0], find_max(first_order.values()[0])
+        return list(first_order.keys())[0], find_max(list(first_order.values())[0])
 
     pair_order = build_pair_order()
-    print 'Pair order:', pair_order
+    print('Pair order:', pair_order)
     import copy
 
     first_order = build_first_order(copy.deepcopy(pair_order))
-    print 'First order:', first_order
+    print('First order:', first_order)
     second_order = build_second_order(first_order)
     return second_order
 
@@ -86,9 +86,9 @@ test_arrays = [
 
 for i in range(len(test_arrays)):
     test_arr = test_arrays[i]
-    print i
-    print test_arr
-    print second_max(test_arr)
-    print 'Number of comparisons =', comparison_counter
-    print ''
+    print(i)
+    print(test_arr)
+    print(second_max(test_arr))
+    print('Number of comparisons =', comparison_counter)
+    print()
     comparison_counter = 0

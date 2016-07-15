@@ -36,4 +36,4 @@ root.right.right = BstNode(17)
 
 root.left.right.left = BstNode(4)
 
-print is_bst(root)
+print(is_bst(root))

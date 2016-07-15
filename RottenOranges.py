@@ -92,4 +92,4 @@ matrices = [
 ]
 
 for mat in matrices:
-    print time_to_rotten_oranges(mat)
+    print(time_to_rotten_oranges(mat))

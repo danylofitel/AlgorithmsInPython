@@ -12,7 +12,7 @@ def construct_bst(inorder):
     if n == 1:
         return BstNode(inorder[0])
 
-    mid = n / 2
+    mid = n // 2
     root = BstNode(inorder[mid])
 
     root.left = construct_bst(inorder[0:mid])

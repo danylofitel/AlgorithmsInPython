@@ -2,23 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63081a46-7ac0-46d7-b60b-6d8fddebe1a8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/Danylo.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/Danylo.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TridiagonalMatrixAlgorithm.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Algorithms.iml" afterPath="$PROJECT_DIR$/.idea/Algorithms.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AllPossibleOutcomesOfExpression.py" afterPath="$PROJECT_DIR$/AllPossibleOutcomesOfExpression.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AllSubsetsMatchingSum.py" afterPath="$PROJECT_DIR$/AllSubsetsMatchingSum.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BinarySearchTree.py" afterPath="$PROJECT_DIR$/BinarySearchTree.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BinarySequence.py" afterPath="$PROJECT_DIR$/BinarySequence.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BinaryStringsWithNoConsecutiveOnes.py" afterPath="$PROJECT_DIR$/BinaryStringsWithNoConsecutiveOnes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CatalanNumbers.py" afterPath="$PROJECT_DIR$/CatalanNumbers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CheckIfArrayRepresentsTree.py" afterPath="$PROJECT_DIR$/CheckIfArrayRepresentsTree.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Coins.py" afterPath="$PROJECT_DIR$/Coins.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConstructBinarySearchTreeFromInorderTraversal.py" afterPath="$PROJECT_DIR$/ConstructBinarySearchTreeFromInorderTraversal.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConvertBstToDoublyLinkedList.py" afterPath="$PROJECT_DIR$/ConvertBstToDoublyLinkedList.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CountBinarySearchTreeNodesInGivenRange.py" afterPath="$PROJECT_DIR$/CountBinarySearchTreeNodesInGivenRange.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CountPalindromes.py" afterPath="$PROJECT_DIR$/CountPalindromes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EquilibriumIndex.py" afterPath="$PROJECT_DIR$/EquilibriumIndex.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FancyNumbers.py" afterPath="$PROJECT_DIR$/FancyNumbers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FindNumberPresentOnceWithOthersAppearingThrice.py" afterPath="$PROJECT_DIR$/FindNumberPresentOnceWithOthersAppearingThrice.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FindOddAppearingElement.py" afterPath="$PROJECT_DIR$/FindOddAppearingElement.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FindOddAppearingElementPair.py" afterPath="$PROJECT_DIR$/FindOddAppearingElementPair.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GenerateAllSortedArraysFromAlternateElementsOfTwoSortedArrays.py" afterPath="$PROJECT_DIR$/GenerateAllSortedArraysFromAlternateElementsOfTwoSortedArrays.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HammingCode.py" afterPath="$PROJECT_DIR$/HammingCode.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IdentityBinarySearch.py" afterPath="$PROJECT_DIR$/IdentityBinarySearch.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IsBinarySearchTree.py" afterPath="$PROJECT_DIR$/IsBinarySearchTree.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LargestBstSubtree.py" afterPath="$PROJECT_DIR$/LargestBstSubtree.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LongestConsecutivePathInMatrix.py" afterPath="$PROJECT_DIR$/LongestConsecutivePathInMatrix.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LongestConsecutiveSubsequence.py" afterPath="$PROJECT_DIR$/LongestConsecutiveSubsequence.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LongestIncreasingSubsequence.py" afterPath="$PROJECT_DIR$/LongestIncreasingSubsequence.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LookAndSaySequence.py" afterPath="$PROJECT_DIR$/LookAndSaySequence.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LowestCommonAncestorInBinaryTree.py" afterPath="$PROJECT_DIR$/LowestCommonAncestorInBinaryTree.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MaxAverageSubarray.py" afterPath="$PROJECT_DIR$/MaxAverageSubarray.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MaxWeightPathInTree.py" afterPath="$PROJECT_DIR$/MaxWeightPathInTree.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MaximumNumberOfAs.py" afterPath="$PROJECT_DIR$/MaximumNumberOfAs.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MaximumSubarray.py" afterPath="$PROJECT_DIR$/MaximumSubarray.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MergeSortedLinkedListWithAscendingAndDescendingOrders.py" afterPath="$PROJECT_DIR$/MergeSortedLinkedListWithAscendingAndDescendingOrders.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MinimumStepsToReachDestination.py" afterPath="$PROJECT_DIR$/MinimumStepsToReachDestination.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NextPalindromeNumber.py" afterPath="$PROJECT_DIR$/NextPalindromeNumber.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NonDecreasingNumbersWithNDigits.py" afterPath="$PROJECT_DIR$/NonDecreasingNumbersWithNDigits.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ReverseArrayWithoutAffectingSpecialCharacters.py" afterPath="$PROJECT_DIR$/ReverseArrayWithoutAffectingSpecialCharacters.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RightViewOfBinaryTree.py" afterPath="$PROJECT_DIR$/RightViewOfBinaryTree.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RottenOranges.py" afterPath="$PROJECT_DIR$/RottenOranges.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SecondLargestElementInArray.py" afterPath="$PROJECT_DIR$/SecondLargestElementInArray.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SecondMax.py" afterPath="$PROJECT_DIR$/SecondMax.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ShiftString.py" afterPath="$PROJECT_DIR$/ShiftString.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ShuffleString.py" afterPath="$PROJECT_DIR$/ShuffleString.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SortedArrayIntersection.py" afterPath="$PROJECT_DIR$/SortedArrayIntersection.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ThreeSum.py" afterPath="$PROJECT_DIR$/ThreeSum.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TopLeftToBottomRightPaths.py" afterPath="$PROJECT_DIR$/TopLeftToBottomRightPaths.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TridiagonalMatrixAlgorithm.py" afterPath="$PROJECT_DIR$/TridiagonalMatrixAlgorithm.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TrappingRainWater.py" afterPath="$PROJECT_DIR$/TrappingRainWater.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TwoSum.py" afterPath="$PROJECT_DIR$/TwoSum.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnimodalBinarySearch.py" afterPath="$PROJECT_DIR$/UnimodalBinarySearch.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnimodalMaximum.py" afterPath="$PROJECT_DIR$/UnimodalMaximum.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZigZagArray.py" afterPath="$PROJECT_DIR$/ZigZagArray.py" />
     </list>
     <ignored path="Algorithms.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +75,7 @@
     <favorites_list name="Algorithms" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,57 +90,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MaxAverageSubarray.py" />
-        <option value="$PROJECT_DIR$/MaxWeightPathInTree.py" />
-        <option value="$PROJECT_DIR$/RottenOranges.py" />
-        <option value="$PROJECT_DIR$/SecondLargestElementInArray.py" />
-        <option value="$PROJECT_DIR$/ThreeSum.py" />
-        <option value="$PROJECT_DIR$/ZigZagArray.py" />
-        <option value="$PROJECT_DIR$/SortedArrayIntersection.py" />
-        <option value="$PROJECT_DIR$/GenerateAllSortedArraysFromAlternateElementsOfTwoSortedArrays.py" />
-        <option value="$PROJECT_DIR$/MinimumStepsToReachDestination.py" />
-        <option value="$PROJECT_DIR$/Economics/Homework2.py" />
-        <option value="$PROJECT_DIR$/AllPossibleOutcomesOfExpression.py" />
-        <option value="$PROJECT_DIR$/LookAndSaySequence.py" />
-        <option value="$PROJECT_DIR$/MaximumNumberOfAs.py" />
-        <option value="$PROJECT_DIR$/NextPalindromeNumber.py" />
-        <option value="$PROJECT_DIR$/TrappingRainWater.py" />
-        <option value="$PROJECT_DIR$/Primes.py" />
-        <option value="$PROJECT_DIR$/FancyNumbers.py" />
-        <option value="$PROJECT_DIR$/CheckIfArrayRepresentsTree.py" />
-        <option value="$PROJECT_DIR$/PlaneSweepAlgorithm.py" />
-        <option value="$PROJECT_DIR$/FindOddAppearingElementPair.py" />
-        <option value="$PROJECT_DIR$/FindOddAppearingElement.py" />
-        <option value="$PROJECT_DIR$/Permutations.py" />
-        <option value="$PROJECT_DIR$/ShuffleString.py" />
-        <option value="$PROJECT_DIR$/CommonAncestorInBinaryTree.py" />
-        <option value="$PROJECT_DIR$/LowestCommonAncestorInBinaryTree.py" />
-        <option value="$PROJECT_DIR$/BST.py" />
-        <option value="$PROJECT_DIR$/BinarySearchTree.py" />
-        <option value="$PROJECT_DIR$/LinkedList.py" />
-        <option value="$PROJECT_DIR$/AllSubsetsWIthZeroSum.py" />
-        <option value="$PROJECT_DIR$/AllSubsetsMatchingSum.py" />
-        <option value="$PROJECT_DIR$/MaximumSubarray.py" />
-        <option value="$PROJECT_DIR$/EquilibriumIndex.py" />
-        <option value="$PROJECT_DIR$/FindNumberPresentOnceWithOthersAppearingThrice.py" />
-        <option value="$PROJECT_DIR$/LargestBstSubtree.py" />
-        <option value="$PROJECT_DIR$/SecondMax.py" />
         <option value="$PROJECT_DIR$/BinaryStringsWithNoConsecutiveOnes.py" />
-        <option value="$PROJECT_DIR$/ConstructBinarySearchTreeFromInorderTraversal.py" />
+        <option value="$PROJECT_DIR$/AllPossibleOutcomesOfExpression.py" />
+        <option value="$PROJECT_DIR$/BinarySearchTree.py" />
+        <option value="$PROJECT_DIR$/AllSubsetsMatchingSum.py" />
+        <option value="$PROJECT_DIR$/CatalanNumbers.py" />
+        <option value="$PROJECT_DIR$/CheckIfArrayRepresentsTree.py" />
         <option value="$PROJECT_DIR$/ConvertBstToDoublyLinkedList.py" />
-        <option value="$PROJECT_DIR$/HammingCode.py" />
+        <option value="$PROJECT_DIR$/CountBinarySearchTreeNodesInGivenRange.py" />
+        <option value="$PROJECT_DIR$/EquilibriumIndex.py" />
+        <option value="$PROJECT_DIR$/FindOddAppearingElement.py" />
+        <option value="$PROJECT_DIR$/GenerateAllSortedArraysFromAlternateElementsOfTwoSortedArrays.py" />
         <option value="$PROJECT_DIR$/IsBinarySearchTree.py" />
+        <option value="$PROJECT_DIR$/LargestBstSubtree.py" />
+        <option value="$PROJECT_DIR$/LongestConsecutivePathInMatrix.py" />
+        <option value="$PROJECT_DIR$/LongestConsecutiveSubsequence.py" />
         <option value="$PROJECT_DIR$/LongestIncreasingSubsequence.py" />
+        <option value="$PROJECT_DIR$/LookAndSaySequence.py" />
+        <option value="$PROJECT_DIR$/LowestCommonAncestorInBinaryTree.py" />
+        <option value="$PROJECT_DIR$/MaxAverageSubarray.py" />
+        <option value="$PROJECT_DIR$/MaximumNumberOfAs.py" />
+        <option value="$PROJECT_DIR$/MaximumSubarray.py" />
+        <option value="$PROJECT_DIR$/MaxWeightPathInTree.py" />
         <option value="$PROJECT_DIR$/MergeSortedLinkedListWithAscendingAndDescendingOrders.py" />
+        <option value="$PROJECT_DIR$/MinimumStepsToReachDestination.py" />
+        <option value="$PROJECT_DIR$/NextPalindromeNumber.py" />
         <option value="$PROJECT_DIR$/NonDecreasingNumbersWithNDigits.py" />
         <option value="$PROJECT_DIR$/ReverseArrayWithoutAffectingSpecialCharacters.py" />
         <option value="$PROJECT_DIR$/RightViewOfBinaryTree.py" />
+        <option value="$PROJECT_DIR$/RottenOranges.py" />
+        <option value="$PROJECT_DIR$/SecondLargestElementInArray.py" />
         <option value="$PROJECT_DIR$/ShiftString.py" />
+        <option value="$PROJECT_DIR$/ShuffleString.py" />
+        <option value="$PROJECT_DIR$/SortedArrayIntersection.py" />
+        <option value="$PROJECT_DIR$/ThreeSum.py" />
         <option value="$PROJECT_DIR$/TopLeftToBottomRightPaths.py" />
-        <option value="$PROJECT_DIR$/TridiagonalMatrixAlgorithm.py" />
+        <option value="$PROJECT_DIR$/TrappingRainWater.py" />
         <option value="$PROJECT_DIR$/TwoSum.py" />
         <option value="$PROJECT_DIR$/UnimodalBinarySearch.py" />
         <option value="$PROJECT_DIR$/UnimodalMaximum.py" />
+        <option value="$PROJECT_DIR$/ConstructBinarySearchTreeFromInorderTraversal.py" />
+        <option value="$PROJECT_DIR$/BinarySequence.py" />
+        <option value="$PROJECT_DIR$/Coins.py" />
+        <option value="$PROJECT_DIR$/CountPalindromes.py" />
+        <option value="$PROJECT_DIR$/FancyNumbers.py" />
+        <option value="$PROJECT_DIR$/FindNumberPresentOnceWithOthersAppearingThrice.py" />
+        <option value="$PROJECT_DIR$/FindOddAppearingElementPair.py" />
+        <option value="$PROJECT_DIR$/HammingCode.py" />
+        <option value="$PROJECT_DIR$/IdentityBinarySearch.py" />
+        <option value="$PROJECT_DIR$/SecondMax.py" />
+        <option value="$PROJECT_DIR$/TridiagonalMatrixAlgorithm.py" />
+        <option value="$PROJECT_DIR$/ZigZagArray.py" />
       </list>
     </option>
   </component>
@@ -138,6 +175,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -159,17 +197,16 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
   </component>
-  <component name="RunManager" selected="Python.ShuffleString">
-    <configuration default="false" name="IsBinarySearchTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ZigZagArray">
+    <configuration default="false" name="TridiagonalMatrixAlgorithm" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -181,12 +218,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IsBinarySearchTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TridiagonalMatrixAlgorithm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="LongestIncreasingSubsequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="TwoSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -198,12 +235,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LongestIncreasingSubsequence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TwoSum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="NextPalindromeNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="UnimodalBinarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -215,12 +252,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NextPalindromeNumber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UnimodalBinarySearch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="NonDecreasingNumbersWithNDigits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="UnimodalMaximum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -232,12 +269,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NonDecreasingNumbersWithNDigits.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UnimodalMaximum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="ShuffleString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="ZigZagArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -249,7 +286,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Algorithms" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ShuffleString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ZigZagArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -389,19 +426,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.IsBinarySearchTree" />
-      <item index="1" class="java.lang.String" itemvalue="Python.LongestIncreasingSubsequence" />
-      <item index="2" class="java.lang.String" itemvalue="Python.NextPalindromeNumber" />
-      <item index="3" class="java.lang.String" itemvalue="Python.NonDecreasingNumbersWithNDigits" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ShuffleString" />
+      <item index="0" class="java.lang.String" itemvalue="Python.TridiagonalMatrixAlgorithm" />
+      <item index="1" class="java.lang.String" itemvalue="Python.TwoSum" />
+      <item index="2" class="java.lang.String" itemvalue="Python.UnimodalBinarySearch" />
+      <item index="3" class="java.lang.String" itemvalue="Python.UnimodalMaximum" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ZigZagArray" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ShuffleString" />
-        <item index="1" class="java.lang.String" itemvalue="Python.NonDecreasingNumbersWithNDigits" />
-        <item index="2" class="java.lang.String" itemvalue="Python.NextPalindromeNumber" />
-        <item index="3" class="java.lang.String" itemvalue="Python.LongestIncreasingSubsequence" />
-        <item index="4" class="java.lang.String" itemvalue="Python.IsBinarySearchTree" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ZigZagArray" />
+        <item index="1" class="java.lang.String" itemvalue="Python.UnimodalMaximum" />
+        <item index="2" class="java.lang.String" itemvalue="Python.UnimodalBinarySearch" />
+        <item index="3" class="java.lang.String" itemvalue="Python.TwoSum" />
+        <item index="4" class="java.lang.String" itemvalue="Python.TridiagonalMatrixAlgorithm" />
       </list>
     </recent_temporary>
   </component>
@@ -435,11 +472,10 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25183016" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3280757" sideWeight="0.5058565" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.4941435" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33911672" sideWeight="0.511713" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33911672" sideWeight="0.4941435" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33911672" sideWeight="0.48828697" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -452,6 +488,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280757" sideWeight="0.4941435" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -488,66 +525,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearchTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryStringsWithNoConsecutiveOnes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CatalanNumbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CheckIfArrayRepresentsTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Coins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ConstructBinarySearchTreeFromInorderTraversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ConvertBstToDoublyLinkedList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
@@ -556,250 +537,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CountBinarySearchTreeNodesInGivenRange.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CountPalindromes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EquilibriumIndex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FancyNumbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FindNumberPresentOnceWithOthersAppearingThrice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+        <state relative-caret-position="646">
+          <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FindOddAppearingElement.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FindOddAppearingElementPair.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GenerateAllSortedArraysFromAlternateElementsOfTwoSortedArrays.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HammingCode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IdentityBinarySearch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IsBinarySearchTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LargestBstSubtree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedList.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LongestConsecutivePathInMatrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LongestConsecutiveSubsequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LongestIncreasingSubsequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LookAndSaySequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LowestCommonAncestorInBinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-833">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MaxAverageSubarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MaximumNumberOfAs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MaximumSubarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MaxWeightPathInTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MergeSortedLinkedListWithAscendingAndDescendingOrders.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MinimumStepsToReachDestination.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NextPalindromeNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170">
-          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NonDecreasingNumbersWithNDigits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReverseArrayWithoutAffectingSpecialCharacters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RightViewOfBinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RottenOranges.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="95" column="0" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SecondLargestElementInArray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SecondMax.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -814,31 +561,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ShuffleString.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="136">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SortedArrayIntersection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+        <state relative-caret-position="221">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ThreeSum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        <state relative-caret-position="204">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TopLeftToBottomRightPaths.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="289">
           <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
           <folding />
         </state>
@@ -852,42 +599,332 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ConstructBinarySearchTreeFromInorderTraversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinarySearchTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinarySequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryStringsWithNoConsecutiveOnes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CatalanNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CheckIfArrayRepresentsTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CountPalindromes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EquilibriumIndex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FancyNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FindNumberPresentOnceWithOthersAppearingThrice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FindOddAppearingElementPair.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GenerateAllSortedArraysFromAlternateElementsOfTwoSortedArrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HammingCode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IdentityBinarySearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IsBinarySearchTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LargestBstSubtree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="15" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LongestConsecutivePathInMatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="78" column="7" selection-start-line="78" selection-start-column="7" selection-end-line="78" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LongestConsecutiveSubsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LongestIncreasingSubsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LookAndSaySequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LowestCommonAncestorInBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaxAverageSubarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaximumNumberOfAs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaximumSubarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaxWeightPathInTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="80" column="35" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MergeSortedLinkedListWithAscendingAndDescendingOrders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MinimumStepsToReachDestination.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NextPalindromeNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NonDecreasingNumbersWithNDigits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReverseArrayWithoutAffectingSpecialCharacters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RightViewOfBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RottenOranges.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="93" column="20" selection-start-line="93" selection-start-column="20" selection-end-line="93" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SecondLargestElementInArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TridiagonalMatrixAlgorithm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state relative-caret-position="164">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SecondMax.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TwoSum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UnimodalMaximum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ZigZagArray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="204">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UnimodalBinarySearch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        <state relative-caret-position="232">
+          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnimodalMaximum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZigZagArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding />
         </state>
       </provider>

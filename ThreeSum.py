@@ -51,5 +51,5 @@ def three_sum_by_sorting(array):
 
 test_array = [1, 3, -2, 9, 6, 3, 5, -1, -8]
 
-print three_sum_by_hashing(test_array)
-print three_sum_by_sorting(test_array)
+print(three_sum_by_hashing(test_array))
+print(three_sum_by_sorting(test_array))

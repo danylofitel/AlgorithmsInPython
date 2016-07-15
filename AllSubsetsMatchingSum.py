@@ -4,7 +4,7 @@ __author__ = 'Danylo'
 def total_subsets_matching_sum(numbers, value):
     array = [1] + [0] * value
     for current_number in numbers:
-        for num in xrange(value - current_number, -1, -1):
+        for num in range(value - current_number, -1, -1):
             if array[num]:
                 array[num + current_number] += array[num]
     return array[value]

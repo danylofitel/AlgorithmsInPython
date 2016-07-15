@@ -19,7 +19,7 @@ def find_odd_appearing_element_pair(arr):
     right = n - 1
 
     while left < right:
-        mid = left + (right - left) / 2
+        mid = left + (right - left) // 2
 
         if arr[mid] == arr[mid + 1]:
             starting_mid = mid
@@ -43,5 +43,5 @@ arrays = [
 
 for arr in arrays:
     odd_index = find_odd_appearing_element_pair(arr)
-    print arr
-    print "{0} at position {1}".format(arr[odd_index], odd_index)
+    print(arr)
+    print("{0} at position {1}".format(arr[odd_index], odd_index))

@@ -14,11 +14,11 @@ def shuffle_string(string):
 
     lst.sort()
 
-    shuffled = map(lambda index: lst[index] + lst[n / 2 + index], range(0, n / 2))
+    shuffled = map(lambda index: lst[index] + lst[n // 2 + index], range(0, n // 2))
     if n % 2 == 1:
         shuffled.append(lst[n - 1])
 
     return ''.join(shuffled)
 
 
-print shuffle_string("BBCCDDEA")
+print(shuffle_string("BBCCDDEA"))

@@ -49,4 +49,4 @@ test_arrays = [
 ]
 
 for array in generate_sorted_arrays(test_arrays[0], test_arrays[1]):
-    print array
+    print(array)

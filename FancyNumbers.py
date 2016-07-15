@@ -21,7 +21,7 @@ def is_fancy(number):
         return None
 
     count = len(number)
-    for i in range(count / 2 + count % 2):
+    for i in range(count // 2 + count % 2):
         if number[i] in rotated_fancy_digits:
             if number[count - i - 1] != rotated_fancy_digits[number[i]]:
                 return False
@@ -46,7 +46,7 @@ test_not_fancy_numbers = [
 ]
 
 for num in test_fancy_numbers:
-    print num, " : ", is_fancy(num)
+    print(num, " : ", is_fancy(num))
 
 for num in test_not_fancy_numbers:
-    print num, " : ", is_fancy(num)
+    print(num, " : ", is_fancy(num))

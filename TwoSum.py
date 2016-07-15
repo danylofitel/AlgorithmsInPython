@@ -43,5 +43,5 @@ def two_sum_by_sorting(array):
 
 test_array = [1, 3, -2, 9, 6, 3, 5, -1, -8, -3, -5, 1]
 
-print two_sum_by_hashing(test_array)
-print two_sum_by_sorting(test_array)
+print(two_sum_by_hashing(test_array))
+print(two_sum_by_sorting(test_array))

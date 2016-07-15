@@ -39,5 +39,5 @@ test_strings = [
 
 for string in test_strings:
     for i in range(0, len(string)):
-        print shift_string(string, i)
-    print ""
+        print(shift_string(string, i))
+    print()

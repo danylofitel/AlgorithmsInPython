@@ -21,7 +21,7 @@ def array_represents_preorder_bst(array):
 
     return True
 
-print array_represents_preorder_bst([2, 4, 3])
-print array_represents_preorder_bst([2, 4, 1])
-print array_represents_preorder_bst([40, 30, 35, 80, 100])
-print array_represents_preorder_bst([40, 30, 35, 20, 80, 100])
+print(array_represents_preorder_bst([2, 4, 3]))
+print(array_represents_preorder_bst([2, 4, 1]))
+print(array_represents_preorder_bst([40, 30, 35, 80, 100]))
+print(array_represents_preorder_bst([40, 30, 35, 20, 80, 100]))

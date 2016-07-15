@@ -53,7 +53,7 @@ class CoinMachine:
             return None
 
         current_coin_value = self.coin_values[index]
-        max_current = min(value / current_coin_value, self.available_coins[current_coin_value])
+        max_current = min(value // current_coin_value, self.available_coins[current_coin_value])
 
         for i in range(max_current, -1, -1):
             coin_selection.append(i)
@@ -72,7 +72,7 @@ class CoinMachine:
             if c is None or c < 0 or available_coins[c] is None or available_coins[c] < 0:
                 return None
 
-        coin_values = available_coins.keys()
+        coin_values = list(available_coins.keys())
         coin_values.sort(reverse=True)
 
         self.available_coins = available_coins
@@ -92,7 +92,7 @@ class CoinMachine:
         return result
 
 coins = [25, 10, 5]
-print min_number_of_coins(coins, 2995)
+print(min_number_of_coins(coins, 2995))
 
 coins = {
     5: 2,
@@ -106,4 +106,4 @@ coins = {
 machine = CoinMachine()
 
 for i in range(101):
-    print "{0} : {1}".format(i, machine.to_coins(coins, i))
+    print("{0} : {1}".format(i, machine.to_coins(coins, i)))

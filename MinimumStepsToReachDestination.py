@@ -52,4 +52,4 @@ def min_steps_to_reach_destination(start, finish, max_feasible_steps):
 
 
 for path in min_steps_to_reach_destination(0, 50, 20):
-    print path
+    print(path)

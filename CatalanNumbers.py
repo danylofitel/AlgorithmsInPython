@@ -49,5 +49,5 @@ def catalan_number_binomial_coefficients(n):
 
 
 for i in range(0, 10):
-    print catalan_number_dynamic(i)
-    print catalan_number_binomial_coefficients(i)
+    print(catalan_number_dynamic(i))
+    print(catalan_number_binomial_coefficients(i))

@@ -8,7 +8,7 @@ __author__ = 'Danylo'
 
 def ubs(array, left, right, elem):
     if left < right:
-        current = (left + right) / 2
+        current = (left + right) // 2
 
         if array[current] == elem:
             return current
@@ -52,4 +52,4 @@ def unimodal_binary_search(array, elem):
 test_array = [-1, 1, 3, 5, 7, 9, 11, 13, 12, 10, 8, 6, 4, 2, 0, -2]
 
 for i in test_array:
-    print unimodal_binary_search(test_array, i)
+    print(unimodal_binary_search(test_array, i))

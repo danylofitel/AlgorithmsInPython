@@ -33,7 +33,7 @@ def longest_increasing_subsequence_dp(arr):
 # A is ceilIndex in the caller
 def ceil_index(arr, l, r, key):
     while r - l > 1:
-        m = l + (r - l) / 2
+        m = l + (r - l) // 2
         if arr[m] >= key:
             r = m
         else:
@@ -74,4 +74,4 @@ for array in test_arrays:
     lis_dp = longest_increasing_subsequence_dp(array)
     lis = longest_increasing_subsequence(array)
     assert lis == lis_dp
-    print "Length of LIS is ", lis
+    print("Length of LIS is ", lis)

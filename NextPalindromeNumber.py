@@ -13,7 +13,7 @@ __author__ = 'Danylo'
 
 def is_palindrome(number):
     string = str(number)
-    for i in range(len(string) / 2):
+    for i in range(len(string) // 2):
         if string[i] != string[len(string) - i - 1]:
             return False
     return True
@@ -21,7 +21,7 @@ def is_palindrome(number):
 
 def next_palindrome(num):
     if num < 0:
-        raise 'Negative number.'
+        raise Exception('Negative number.')
 
     number = num
     if is_palindrome(number):
@@ -34,7 +34,7 @@ def next_palindrome(num):
         mirror[length - i - 1] = mirror[i]
 
     if int(''.join(mirror)) <= num:
-        right = length / 2
+        right = length // 2
         left = right - (length + 1) % 2
 
         while left >= 0:
@@ -59,4 +59,4 @@ def next_palindrome(num):
 
 test_numbers = [0, 1, 12, 32, 123, 999, 1221, 10000, 90909090, 1234543234565454321]
 for n in test_numbers:
-    print '{0} -> {1}'.format(n, next_palindrome(n))
+    print('{0} -> {1}'.format(n, next_palindrome(n)))

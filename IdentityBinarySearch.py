@@ -12,7 +12,7 @@ __author__ = 'Danylo'
 
 def bs(array, left, right):
     if left < right:
-        mid = (left + right) / 2
+        mid = (left + right) // 2
         if array[mid] == mid:
             return mid
         elif array[left] > mid:
@@ -42,7 +42,7 @@ def ibs(array, left, right):
     if left > right:
         return None
 
-    middle_index = (left + right) / 2
+    middle_index = (left + right) // 2
     middle_item = array[middle_index]
 
     if middle_index == middle_item:
@@ -62,8 +62,8 @@ def identity_binary_search_recursive(array):
 test_array_true = [-1, 0, 2, 3, 5, 6, 9]
 test_array_false = [-1, 0, 1, 2, 3, 8, 9]
 
-print identity_binary_search_recursive(test_array_true)
-print identity_binary_search_iterative(test_array_true)
+print(identity_binary_search_recursive(test_array_true))
+print(identity_binary_search_iterative(test_array_true))
 
-print identity_binary_search_recursive(test_array_false)
-print identity_binary_search_iterative(test_array_false)
+print(identity_binary_search_recursive(test_array_false))
+print(identity_binary_search_iterative(test_array_false))

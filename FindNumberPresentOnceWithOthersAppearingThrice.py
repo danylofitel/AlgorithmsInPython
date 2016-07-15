@@ -24,7 +24,7 @@ def to_binary(number, digits):
     while number != 0:
         bit = number % 2
         binary.append(bit)
-        number /= 2
+        number //= 2
 
     if len(binary) > digits:
         raise Exception("Number out of range")
@@ -65,4 +65,4 @@ test_arrays = [
 ]
 
 for test_array in test_arrays:
-    print find_number_appearing_once(test_array)
+    print(find_number_appearing_once(test_array))

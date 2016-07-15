@@ -15,7 +15,7 @@ def print_right_view_help(tree, level, max_level):
         return max_level
 
     if level > max_level:
-        print tree.value
+        print(tree.value)
         max_level = level
 
     max_level = max(max_level, print_right_view_help(tree.right, level + 1, max_level))

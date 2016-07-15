@@ -73,5 +73,5 @@ root.left.right = BstNode(7)
 root.right.left = BstNode(12)
 root.right.right = BstNode(20)
 
-print common_ancestor_linear_space(root, 3, 7).value
-print common_ancestor_constant_space(root, 3, 7).value
+print(common_ancestor_linear_space(root, 3, 7).value)
+print(common_ancestor_constant_space(root, 3, 7).value)
